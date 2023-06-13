@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
+
+
+body{
+    margin: 0
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+
+.image-container { 
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.image-container { 
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/984/880/original/abstract-colorful-geometric-overlapping-background-and-texture-free-vector.jpg)
+}
+
+h1 {
+    font-family: 'Prata', sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Prata', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.autore {
+    color: black;
+    font-weight: 600;
+    font-style: italic;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    background: linear-gradient(45deg, #f7d4f0, #b6f1ef);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: solid 1px;
+    border-color: #dfdfdf;
+}
+
+.link {
+    text-decoration: none;
+    color: #f7d4f0
+}
